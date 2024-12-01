@@ -1,16 +1,69 @@
-# to_do_list_flutter
+# Todo List App
 
-A new Flutter project.
+## Overview
+
+A simple and elegant Todo List application built with Flutter, allowing users to manage their daily tasks efficiently.
+
+## Features
+
+- Add new tasks
+- Mark tasks as complete
+- Delete tasks
+
+## Screenshots
+
+[Add screenshots of your app here - you can include 2-3 images showing different states of the app]
+
+## Tech Stack
+
+- Flutter
+- Provider (State Management)
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code with Flutter extensions
+- Android Emulator or iOS Simulator (or a physical device)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Todo List App
+
+## Overview
+
+A simple and elegant Todo List application built with Flutter, allowing users to manage their daily tasks efficiently.
+
+## Features
+
+- Add new tasks
+- Mark tasks as complete
+- Delete tasks
+- Persistent task storage
+- Clean and intuitive user interface
+
+## Screenshots
+
+[Add screenshots of your app here - you can include 2-3 images showing different states of the app]
+
+## Tech Stack
+
+- Flutter
+- Provider (State Management)
+- Dart
+
+## Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code with Flutter extensions
+- Android Emulator or iOS Simulator (or a physical device)
+
+### Video
+
+https://github.com/user-attachments/assets/f67621ad-5445-48b0-b016-17b395fe4630
